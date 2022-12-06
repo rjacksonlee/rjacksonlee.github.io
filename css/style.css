@@ -47,7 +47,7 @@ h2 {
   letter-spacing: 0.3px;
   text-align: left;
   color: #14213d;
-  padding: 10px 0px 10px 10px;
+  padding: 10px 20px 0px 20px;
 }
 
 img {
@@ -87,7 +87,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .myButton:hover {
-    background-color:#caf0f8;
+    background-color: rgba(0,0,0,.2);
 }
 
 .myButton:active {
@@ -96,7 +96,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .project {
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
   width: 100%;
 }
 
@@ -135,15 +135,7 @@ font-family: 'Oswald', sans-serif;
   letter-spacing: 0.1px;
   text-align: left;
   color: #6d6875;
-  padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
-}
-
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
 }
 
 .container {
